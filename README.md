@@ -41,3 +41,10 @@ I'm an engineering student interested in embedded systems, firmware development,
 - Solidwork
 - Kicad
 - MatLab
+
+### Contact
+<img src="https://img.icons8.com/ios-glyphs/30/58a6ff/new-post.png" width="20"/> Email: kolibriaspro@gmail.com
+
+<img src="https://img.icons8.com/ios-glyphs/30/58a6ff/phone.png" width="20"/> Phone: (+84 366047218)
+
+
